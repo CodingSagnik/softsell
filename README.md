@@ -2,19 +2,9 @@
 
 A responsive, single-page marketing website for SoftSell, a fictional software license resale startup that helps businesses recover value from unused software licenses. Built with Next.js and Tailwind CSS, this project demonstrates modern web development practices with a focus on performance, accessibility, and user experience.
 
-![SoftSell Logo](public/logo.png)
+Live Link - https://softsell-pi.vercel.app/
+![image](https://github.com/user-attachments/assets/de8cafe2-4b58-4541-9400-089e23e21bc3)
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Design Decisions](#design-decisions)
-- [Accessibility](#accessibility)
-- [Performance](#performance)
-- [Deployment](#deployment)
-- [Future Enhancements](#future-enhancements)
-- [Development Process](#development-process)
 
 ## ✨ Features
 
@@ -60,6 +50,8 @@ A responsive, single-page marketing website for SoftSell, a fictional software l
    - Animated theme toggle in navigation
    - Persistent theme selection using localStorage
    - Smooth transitions between themes
+   ![image](https://github.com/user-attachments/assets/cc9e7b66-b90f-4adc-881c-0456a1f739fe)
+
 
 2. **Responsive Navigation**
    - Hamburger menu on mobile
@@ -73,6 +65,8 @@ A responsive, single-page marketing website for SoftSell, a fictional software l
    - Simulated typing indicators for realistic interaction
    - Pre-defined responses for common questions
    - User-friendly interface with message history
+   ![image](https://github.com/user-attachments/assets/dd35148e-0230-4547-b06b-a1fdeb0c96b8)
+
 
 4. **Animations & Interactions**
    - Subtle scroll animations using Framer Motion
@@ -129,42 +123,6 @@ softshell/
 └── package.json            # Dependencies and scripts
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18.x or higher
-- npm or yarn
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/softshell.git
-   cd softshell
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. Run the development server:
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-### Building for Production
-```bash
-npm run build
-# or
-yarn build
-```
-
 ## 🎨 Design Decisions
 
 ### Color Palette
@@ -204,10 +162,8 @@ The site was built with accessibility in mind:
 
 ## 🌐 Deployment
 
-This site can be deployed to:
+This site is deployed on:
 - **Vercel**: Optimized for Next.js applications
-- **Netlify**: Simple deployment with continuous integration
-- **GitHub Pages**: Cost-effective static hosting
 
 For production deployment, remember to:
 1. Build the project locally
@@ -239,10 +195,3 @@ Total time spent on this project: Approximately 8 hours, broken down as:
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Tailwind CSS for the utility-first styling approach
-- Next.js team for the excellent React framework
-- Framer Motion for the animation library
-- React Icons for the comprehensive icon set 
